@@ -1,0 +1,160 @@
+body{
+    background: linear-gradient(0deg,rgba(0,0,0,.6),rgba(0,0,0,.6)),url(pictures/bodyBg.png);
+}
+#navbar{
+    border-bottom:#3e3e3e solid 1px;
+    background-color: #111418 !important;
+}
+#search{
+    background-color: #111418 !important;
+}
+.welcome{
+    margin-top: 40px;
+    border-radius: 30px;
+    border: #3e3e3e solid 1px;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+    color: #fff;
+    margin: 40px;
+}
+.games{
+    width: 100%;
+    height: 500px;
+    padding: 10px;
+    border-radius: 15pc;
+}
+.follow{
+    background-color: rgba(255, 0, 0, 0.27) !important;
+    height: 500px;
+    margin-top: 60px;
+}
+.pic{
+   height: 600px;
+   width: 500px;
+}
+.para{
+   color: #b1aeae;
+   margin-top: 0px;
+   font-size: 20px; 
+}
+h2{
+    color: #fff !important;
+    margin-left: 150px;
+    margin-top: 100px !important;
+}
+h3{
+    color:#d4d4d4 !important ;
+}
+p{
+    color: #b1aeae !important;
+}
+.esports{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.tdd{
+    padding: 20px;
+}
+.discord{
+    width: 500;
+    height: 400px;
+    padding: 50px;
+    border-radius: 60px !important;
+}
+.join{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.button{
+    width: 180px;
+    height: 50px;
+    border-radius: 5pc;
+    background-color: #0776a691;
+    border-color: #0776a691;
+    color: #fff;
+}
+.button:hover{
+    background-color: #0776a6b2;
+    border-color: #0776a6b2;
+}
+.foo{
+    margin-top: 70px;
+    width: 100%;
+    height: 500px;
+}
+.contact{
+    margin-left: 200px;
+}
+.footer-clean {
+    padding:50px 0;
+    color:#b1aeae;
+}
+  
+.footer-clean h3 {
+    margin-top:50px;
+    margin-bottom:12px;
+}
+  
+.footer-clean ul {
+    padding:0;
+    list-style:none;
+    line-height:1.6;
+    margin-bottom:0;
+}
+  
+.footer-clean ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+}
+  
+.footer-clean ul a:hover {
+    opacity:1;
+}
+  
+.footer-clean .item.social {
+    text-align:right;
+}
+.products{
+    padding-bottom: 20px;
+}
+.card{
+    margin-top: 10px;
+    background-color: #0d0f12 !important;
+}
+.card-title{
+    margin: 10px;
+    padding: 10px;
+    color: #fff !important;
+}
+.card-text{
+    color: #fff !important;
+}
+#carouselExample{
+    margin-top: 40px !important;
+    border-radius: 30px !important;
+    border: #3e3e3e solid 1px;
+    box-sizing: border-box;
+    width: 70% !important;
+    height: 40% !important;
+}
+label{
+    color: #fff;
+    margin-top: 150px!important;
+    padding-right: 40px;
+    font-size: large;
+}
+.santa{
+    padding-left: 0;
+    padding-right: 70%;
+}
+input{
+    padding-right: 40px;
+}
+.buy{
+    margin-top: 50px;
+    height: 300px;
+    background-color:  rgba(255, 0, 0, 0.27) !important;
+}
